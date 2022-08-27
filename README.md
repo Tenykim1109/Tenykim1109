@@ -29,7 +29,7 @@
 <p align="center">
   <a href="mailto:lona573@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=lona573@gmail.com"/></a>
   <a href="https://velog.io/@tenykim1109"><img src="https://img.shields.io/badge/Blog-12B886?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@tenykim1109"/></a>
-<a href="https://tenykim.notion.site/dc29f3ecdc1948c3b4848e7edc605119"><img src="https://img.shields.io/badge/CV-87BCFB?style=for-the-badge&logo=Notion&logoColor=white&link=https://tenykim.notion.site/dc29f3ecdc1948c3b4848e7edc605119"/></a>
+<a href="https://tenykim.notion.site/dc29f3ecdc1948c3b4848e7edc605119"><img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://tenykim.notion.site/dc29f3ecdc1948c3b4848e7edc605119"/></a>
 </p>
 
 
