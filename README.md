@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Minjeong%20Kim&fontSize=90desc=To%20be%20Frontend%20developer%20using%20React&descAlignY=70)
   
 </div>
 
