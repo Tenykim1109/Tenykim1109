@@ -6,8 +6,15 @@
 안녕하세요, 프론트엔드 개발자 <ins><b>김민정</b></ins>입니다.🙌</p>
 
 <p align="center">
-<ins><b>사회적 이슈</b></ins>에 관심을 갖고 다양한 프로젝트를 진행했습니다.</p>
+<ins><b>사회적 이슈</b></ins>에 관심을 갖고 다양한 프로젝트를 진행한 경험이 있습니다.</p>
 
+<br/>
+<br/>
+  
+  
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+
+<p align="center"> Techs that I've used at least once </p>  
 
 <p align="center">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
