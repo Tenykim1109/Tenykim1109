@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=b3e5fc&height=300&section=header&text=Minjeong%20Kim&fontColor=ffffff&fontSize=90&fontAlignY=30&desc=To%20be%20Frontend%20developer%20using%20React&descAlignY=60)
   
 <p align="center">
-안녕하세요, 프론트엔드 개발자 <ins><b>김민정</b></ins>입니다.🙌</p>
+안녕하세요, 프론트엔드 개발자 <ins><b>김민정</b></ins>입니다.</p>
 
 <p align="center">
 <ins><b>사회적 이슈</b></ins>에 관심을 갖고 다양한 프로젝트를 진행한 경험이 있습니다.</p>
